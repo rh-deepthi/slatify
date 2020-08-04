@@ -20,6 +20,9 @@ inputs:
   icon_emoji:
     description: 'slack icon emoji'
     required: false
+  icon_url:
+    description: 'slack icon url'
+    required: false
   channel:
     description: 'slack channel'
     required: false
